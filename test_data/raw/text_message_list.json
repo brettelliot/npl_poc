@@ -1,0 +1,15 @@
+[
+    {
+        "updated": "2018-05-04 06:05:07.233000",
+        "created": "2018-05-04 06:05:07.231000",
+        "sms_type": "sent",
+        "profile_id": "xxxx",
+        "thread_id": "xxx",
+        "address": "xxxxxx",
+        "date": "2018-05-04 05:27:33",
+        "message": "Regardless of the industry, Data Science and Artificial Intelligence promise to reshape the way we do our jobs every day. At InData Labs we seek to bring the power of raw science & AI to our customers. Whether you want to explore the possible use cases for big raw analytics or have an AI solution in mind and want to start quickly, our team of world-class raw scientists and raw engineers can help you achieve big raw success and get the most out of your investment.",
+        "_id": "xxxx",
+        "id": "xxxx",
+        "sms_id": 12345
+    }
+]

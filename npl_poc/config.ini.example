@@ -1,0 +1,10 @@
+; config.ini
+[DEFAULT]
+DATA_DIR_NAME = ../test_data/raw
+RESULTS_DIR_NAME = ../test_data/results
+MAX_REQUESTS_PER_MIN = 30
+
+[IDL]
+IDL_API_KEY = insert-key-here
+IDL_MAX_LENGTH = 1048576
+IDL_API_UNITS_LEFT = 5000

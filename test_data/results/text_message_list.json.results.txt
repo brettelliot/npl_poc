@@ -1,0 +1,46 @@
+API RESPONSE:
+{
+    "request": {
+        "models": [
+            "interests"
+        ],
+        "timestamp": "2018-08-09T18:07:23.697837Z",
+        "units_left": 4401,
+        "units_spent": 1,
+        "url": "https://api.indatalabs.com/v1/text?apikey=c9af17a7-e4a6-4647-918d-3163e2a0f417&models=interests"
+    },
+    "response": [
+        {
+            "interests": {
+                "arts_entertainment": 0.05056463976299559,
+                "automotive": 0.19485344203670396,
+                "business": 0.8250857753635231,
+                "careers": 0.580674405348716,
+                "education": 0.5010714195235214,
+                "family_parenting": 0.31474202820643804,
+                "food_drink": 0.09290934377094609,
+                "health_fitness": 0.27315874466655754,
+                "hobbies_interests": 0.3039770020825634,
+                "home_garden": 0.24224307972286427,
+                "illegal_content": 0.4040416461715344,
+                "law_government_politics": 0.5164006930147564,
+                "news": 0.5315096922123916,
+                "non_standard_content": 0.3838607040291444,
+                "personal_finance": 0.6553171638030273,
+                "pets": 0.4096590379345002,
+                "real_estate": 0.5052420713858449,
+                "religion_spirituality": 0.16117723173337967,
+                "science": 0.5684079275705309,
+                "shopping": 0.2874629933656693,
+                "society": 0.28915483727451846,
+                "sports": 0.26843379964473657,
+                "style_fashion": 0.15860123213914668,
+                "technology_computing": 0.6185474544425924,
+                "travel": 0.3387364254721896
+            }
+        }
+    ],
+    "result": "ok"
+}
+MESSAGE CONTENT:
+Regardless of the industry, Data Science and Artificial Intelligence promise to reshape the way we do our jobs every day. At InData Labs we seek to bring the power of raw science & AI to our customers. Whether you want to explore the possible use cases for big raw analytics or have an AI solution in mind and want to start quickly, our team of world-class raw scientists and raw engineers can help you achieve big raw success and get the most out of your investment.
