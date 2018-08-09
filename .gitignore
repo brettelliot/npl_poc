@@ -9,6 +9,7 @@
 
 # project specific stuff
 npl_poc/config.ini
+data/
 
 # OS generated files #
 ######################

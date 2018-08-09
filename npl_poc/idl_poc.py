@@ -41,7 +41,7 @@ def main():
         # 2. For each json file in the directory
         for filename in file_list:
             print('Processing {}/{}'.format(processed_file_count, file_count))
-            file_count += 1
+            processed_file_count += 1
             if filename.endswith(('.json')):
                 filepath = os.path.join(data_dir_name, filename)
 
