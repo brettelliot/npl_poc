@@ -120,11 +120,14 @@ def write_results_to_file(results_dir_name, filename, result_json, text):
 
 def check_for_significant_interests(filename, interests):
     significant_interests = []
-    for k, v in interests.items():
-        if v >= 1.0:
-            significant_interests.append([k, v])
-    if len(significant_interests) > 0:
-        print('{} has significant interests: {}'.format(filename, significant_interests))
+    try:
+        for k, v in interests.items():
+            if v >= 1.0:
+                significant_interests.append([k, v])
+        if len(significant_interests) > 0:
+            print('{} has significant interests: {}'.format(filename, significant_interests))
+    except Exception:
+        pass
 
 
 def test_call_to_idl(idl_api_key):
