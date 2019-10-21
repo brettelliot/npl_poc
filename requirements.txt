@@ -10,4 +10,4 @@ pluggy==0.6.0
 py==1.5.4
 requests==2.19.1
 six==1.11.0
-urllib3==1.23
+urllib3==1.24.2
